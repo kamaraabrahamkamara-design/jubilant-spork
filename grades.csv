@@ -1,0 +1,16 @@
+id,class,subject,period,semester,grade
+STU1001,Grade_11A,Mathematics,Quarter_1,Semester_1,92.0
+STU1001,Grade_11A,English_Lit,Quarter_1,Semester_1,88.0
+STU1001,Grade_11A,Mathematics,Quarter_2,Semester_1,96.0
+STU1001,Grade_11A,English_Lit,Quarter_2,Semester_1,90.0
+STU1001,Grade_11A,Mathematics,Quarter_3,Semester_2,85.0
+STU1001,Grade_11A,English_Lit,Quarter_3,Semester_2,87.0
+STU1002,Grade_11A,Mathematics,Quarter_1,Semester_1,78.5
+STU1002,Grade_11A,English_Lit,Quarter_1,Semester_1,82.0
+STU1002,Grade_11A,Mathematics,Quarter_2,Semester_1,80.0
+STU1002,Grade_11A,English_Lit,Quarter_2,Semester_1,85.5
+STU1003,Grade_11B,Mathematics,Quarter_1,Semester_1,95.0
+STU1003,Grade_11B,English_Lit,Quarter_1,Semester_1,91.0
+STU1003,Grade_11B,Physics,Quarter_1,Semester_1,89.0
+STU1004,Grade_12C,Chemistry,Quarter_1,Semester_1,64.0
+STU1004,Grade_12C,History,Quarter_1,Semester_1,72.5
